@@ -17,7 +17,7 @@ JavaBank is a banking system developed in Java that simulates basic banking oper
 
 1. Clone the repository to your local environment:
    ```bash
-   git clone https://github.com/your-username/JavaBank.git
+   git clone https://github.com/saulosw/java-bank-account.git
 
    javac Main.java
 
